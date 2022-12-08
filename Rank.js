@@ -166,7 +166,7 @@ function name_search(){
             // REPLACING ALL ة WITH ه
             // REPLACING ALL ي IN THE END WITH ى
 
-            console.log(t_splited);
+            
             for (let i of name_to_find_splited){
                 if (i == t_splited[j]){
                     found_ind++;
